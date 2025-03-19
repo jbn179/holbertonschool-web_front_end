@@ -399,3 +399,7 @@ ul.row {
 .card-work:hover .card-title {
     opacity: 1;
 }
+
+.card-work .card-image {
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
+}
