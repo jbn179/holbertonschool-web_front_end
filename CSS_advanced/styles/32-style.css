@@ -378,6 +378,7 @@ ul.row {
     opacity: 0;
     height: 100%;
     position: relative;
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .card-work .card-title a {
