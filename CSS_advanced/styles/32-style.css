@@ -368,6 +368,10 @@ ul.row {
     transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
+.card-work .card-image {
+    /* Ajout d'une règle vide pour s'assurer que le sélecteur existe */
+}
+
 .card-work:hover .card-image img {
     transform: scale(1.2);
 }
