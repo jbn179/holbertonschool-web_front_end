@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# filepath: /home/jbn/holbertonschool-web_front_end/python-server_side_rendering/task_00_intro.py
 def generate_invitations(template, attendees):
     """
     Generate personalized invitation files from a template and a list of attendees.
