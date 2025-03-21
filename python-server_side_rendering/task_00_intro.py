@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # filepath: /home/jbn/holbertonschool-web_front_end/python-server_side_rendering/task_00_intro.py
-import os
+from os.path import exists
 
 def generate_invitations(template, attendees):
     """
